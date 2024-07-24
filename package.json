@@ -14,12 +14,19 @@
     "@fontsource/roboto": "^5.0.13",
     "@mui/material": "^5.16.1",
     "@mui/styled-engine-sc": "^6.0.0-alpha.18",
+    "@react-three/drei": "^9.109.1",
+    "@react-three/fiber": "^8.16.8",
     "@types/regenerator-runtime": "^0.13.6",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.8",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
     "react-speech-recognition": "^3.10.0",
-    "styled-components": "^6.1.11"
+    "styled-components": "^6.1.11",
+    "tailwind-merge": "^2.4.0",
+    "three": "^0.166.1",
+    "three-globe": "^2.31.1"
   },
   "devDependencies": {
     "@types/node": "^20",
